@@ -1,0 +1,17 @@
+{
+    "records": [{
+        "name": "Cloud",
+        "items": [],
+        "url": "https://integration.cloud.tibco.com:443"
+    }],
+    "resources": [
+        {
+            "location": "Service Descriptors/empdtls.Process-Resource.json",
+            "type": "generated"
+        },
+        {
+            "location": "Service Descriptors/empdtls.empjoiningdtls-empjoiningdtls.json",
+            "type": "generated"
+        }
+    ]
+}
